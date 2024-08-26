@@ -10,20 +10,6 @@
 - **Print History Tracking:** Track which orders have been printed and clear the history if necessary.
 - **Admin Interface:** Easy-to-use admin interface for managing orders and product statuses.
 
-## Installation
-
-1. **Download the Plugin:**
-   Download the plugin ZIP file or clone the repository.
-
-2. **Upload the Plugin:**
-   - Go to the WordPress admin dashboard.
-   - Navigate to `Plugins` > `Add New`.
-   - Click `Upload Plugin` and choose the downloaded ZIP file.
-   - Click `Install Now` and then `Activate Plugin`.
-
-3. **Configure the Plugin:**
-   - Go to `Orders Manager` in the WordPress admin menu to access the plugin's settings and management interface.
-
 ## Usage
 
 1. **View Orders:**
